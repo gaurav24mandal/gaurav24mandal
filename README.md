@@ -16,7 +16,7 @@ Currently working on backend technologies that are JavaScript , TypeScript , nod
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gaurav24mandal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️  Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
